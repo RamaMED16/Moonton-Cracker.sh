@@ -1,2 +1,2 @@
-# Moonton-Cracker.sh
+# Moonton-Cracker
 Ga tau bingung, pen makan 
